@@ -6,6 +6,11 @@ It exposes data from your development tools (code, version control, issues, docu
 
 GitHub is the first supported source, with more integrations planned.
 
+## Demo
+
+![Demo](docs/demo.gif)
+
+
 ## Who This Is For
 
 - Engineering managers who need weekly or sprint reports
